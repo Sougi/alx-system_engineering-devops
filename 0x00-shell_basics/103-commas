@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ma ./103-commas
+ls -map
